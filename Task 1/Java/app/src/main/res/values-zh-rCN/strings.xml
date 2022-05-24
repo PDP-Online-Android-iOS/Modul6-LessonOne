@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">爪哇</string>
+    <string name="open_language_activity">开放式语言活动</string>
+    <string name="language">语言</string>
+    <string name="uzbek_language">乌兹别克语</string>
+    <string name="chinese_language">中文</string>
+    <string name="korean_language">朝鲜语</string>
+    <string name="japanese_language">日语</string>
+</resources>

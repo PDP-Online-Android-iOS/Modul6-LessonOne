@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">자바</string>
+    <string name="open_language_activity">열린 언어 활동</string>
+    <string name="language">언어</string>
+    <string name="uzbek_language">우즈벡어</string>
+    <string name="chinese_language">중국어</string>
+    <string name="korean_language">한국어</string>
+    <string name="japanese_language">일본어</string>
+</resources>

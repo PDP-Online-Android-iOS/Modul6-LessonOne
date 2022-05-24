@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="open_language_activity">Open Language Activity</string>
+    <string name="language">Language</string>
+    <string name="uzbek_language">Uzbek Language</string>
+    <string name="chinese_language">Chinese Language</string>
+    <string name="korean_language">Korean Language</string>
+    <string name="japanese_language">Japanese Language</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">コトリン</string>
+    <string name="open_language_activity">オープンランゲージアクティビティ</string>
+    <string name="language">言語</string>
+    <string name="uzbek_language">ウズベク語</string>
+    <string name="chinese_language">中国語</string>
+    <string name="korean_language">韓国語</string>
+    <string name="japanese_language">日本語</string>
+</resources>

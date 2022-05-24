@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Java</string>
+    <string name="open_language_activity">Til oynasini ochish</string>
+    <string name="language">Til</string>
+    <string name="uzbek_language">Uzbek tili</string>
+    <string name="chinese_language">Xitoy tili</string>
+    <string name="korean_language">Kores tili</string>
+    <string name="japanese_language">Japon tili</string>
+</resources>
